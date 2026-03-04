@@ -1,0 +1,44 @@
+{
+  "binance": {
+    "api_key": "YOUR_BINANCE_API_KEY",
+    "api_secret": "YOUR_BINANCE_API_SECRET",
+    "testnet": false
+  },
+  "telegram": {
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "chat_id": "YOUR_CHAT_ID"
+  },
+  "features": {
+    "market_monitor": {
+      "enabled": true,
+      "check_interval": 60,
+      "price_change_threshold": 0.05,
+      "volume_surge_threshold": 3.0,
+      "watchlist": ["BTCUSDT", "ETHUSDT", "BNBUSDT", "SOLUSDT"]
+    },
+    "dca_helper": {
+      "enabled": true,
+      "default_amount": 100,
+      "default_frequency": "weekly"
+    },
+    "risk_alert": {
+      "enabled": true,
+      "alert_threshold": -0.1
+    },
+    "launchpad_tracker": {
+      "enabled": true,
+      "check_interval": 3600
+    },
+    "academy_helper": {
+      "enabled": true,
+      "check_interval": 86400
+    }
+  },
+  "notification": {
+    "enabled": true,
+    "quiet_hours": {
+      "start": "23:00",
+      "end": "08:00"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+#安安虾 #币安 #AI #OpenClaw #加密货币 #定投助手 #市场监控
+
+🦞 安安虾 - 币安智能交易助手
+
+主人，我将开始帮您在币安赚到 BNB！
+
+✨ 核心功能：
+📊 实时市场监控 - 暴涨暴跌第一时间通知
+💰 智能定投助手 - 自动计算最优定投策略  
+⚠️ 风险预警系统 - 持仓利空消息实时监控
+🚀 Launchpad追踪 - 新币申购不再错过
+📚 学习助手 - 币安 Academy 个性化推荐
+
+🛠️ 基于 OpenClaw + 币安 API 开发
+📱 Telegram 实时推送
+
+🔗 GitHub: https://github.com/kyne1127/anansha
+
+#Binance #Crypto #TradingBot #DCA
