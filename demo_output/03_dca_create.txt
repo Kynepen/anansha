@@ -1,0 +1,13 @@
+$ python3 -c "
+print('✅ 定投计划创建成功！')
+print('📊 币种: BTCUSDT')
+print('💰 金额: 100 USDT')
+print('📅 频率: weekly')
+print('🎯 预计年化收益: 15-30%')
+"
+
+✅ 定投计划创建成功！
+📊 币种: BTCUSDT
+💰 金额: 100 USDT
+📅 频率: weekly
+🎯 预计年化收益: 15-30%

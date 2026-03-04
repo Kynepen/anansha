@@ -1,0 +1,15 @@
+$ python3 -c "
+from src.binance_client import BinanceClient
+client = BinanceClient('', '', testnet=True)
+gainers = client.get_top_gainers(5)
+print('📊 市场概况\n')
+print('🚀 涨幅榜 TOP5')
+for i, c in enumerate(gainers, 1):
+    print(f'{i}. {c["symbol"]}: +{c["price_change_percent"]:.2f}%')
+"
+
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+  File "/home/kyne/.openclaw/workspace/anansha/src/binance_client.py", line 7, in <module>
+    from binance.client import Client
+ModuleNotFoundError: No module named 'binance'

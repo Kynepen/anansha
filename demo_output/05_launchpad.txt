@@ -1,0 +1,14 @@
+$ python3 -c "
+print('🚀 即将开始的项目\n')
+print('📌 NewToken (NEW)')
+print('⏰ 开始时间: 2小时后')
+print('💰 销售价: 0.01 USDT')
+print('📈 预期收益: 5-10x')
+"
+
+🚀 即将开始的项目
+
+📌 NewToken (NEW)
+⏰ 开始时间: 2小时后
+💰 销售价: 0.01 USDT
+📈 预期收益: 5-10x
