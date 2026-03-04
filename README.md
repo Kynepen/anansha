@@ -42,7 +42,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/kyne1127/anansha.git
+git clone https://github.com/Kynepen/anansha.git
 cd anansha
 
 # 安装依赖
